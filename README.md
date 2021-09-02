@@ -7,4 +7,4 @@ eLife 2019  8:e42766 [doi: 10.7554/eLife.42766](https://elifesciences.org/articl
 
 To reproduce the traces shown in Figure 9, compile the mechanisms with mknrndll and execute the runCCxxxxx.hoc files with NEURON (Hines & Carnevale, 1997; Neural Comput. 9:1179-1209).
 
-For more information contact hallermann@medizin.uni-leipzig.de 
+For more information contact hallermann@medizin.uni-leipzig.de. 
